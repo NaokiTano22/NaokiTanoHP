@@ -73,7 +73,7 @@ sections:
         - title: Master's Researcher
           company: Hatsuzawa Lab.
           company_url: 'http://www.hat.first.iir.titech.ac.jp/'
-          company_logo: org-gc
+          company_logo: titech
           location: Tokyo Institute of Technology
           date_start: '2022-04-01'
           date_end: ''
@@ -89,7 +89,7 @@ sections:
         - title: Undergraduate Student
           company: Tokyo Institute of Technology
           company_url: 'https://www.titech.ac.jp/'
-          company_logo: org-x
+          company_logo: titech
           location: Tokyo
           date_start: '2018-04-01'
           date_end: '2022-03-31'
@@ -138,11 +138,11 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Publications
+      title: Recent Posts
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
-      count: 0
+      count: 3
       # Filter on criteria
       filters:
         folders:
@@ -176,13 +176,13 @@ sections:
       # To show all items, set `tag` to "*".
       # To filter by a specific tag, set `tag` to an existing tag name.
       # To remove the toolbar, delete the entire `filter_button` block.
-      buttons:
-        - name: All
-          tag: '*'
-        - name: Deep Learning
-          tag: Deep Learning
-        - name: Other
-          tag: Demo
+      #buttons:
+      #  - name: All
+      #    tag: '*'
+      #  - name: Deep Learning
+      #    tag: Deep Learning
+      #  - name: Other
+      #    tag: Demo
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
