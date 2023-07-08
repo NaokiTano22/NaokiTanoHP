@@ -12,3 +12,5 @@ image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
 ---
+
+Shear Wave Elastography (SWE) provide a non-invasive diagnosis on liver fibrosis. Our work is to establish this novel diagnostic method and apply to the liver fibrosis diagnosis.
