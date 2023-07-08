@@ -81,7 +81,7 @@ sections:
         - title: Academic Visitor
           company: Bio-Inspired Robotic Lab.
           company_url: 'https://birlab.org/'
-          company_logo: org-gc
+          company_logo: UniCam
           location: University of Cambridge
           date_start: '2022-07-01'
           date_end: '2022-09-30'
