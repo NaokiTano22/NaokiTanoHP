@@ -44,9 +44,14 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '2022S_501.pdf'
+url_pdf: ''
+url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_poster: ''
 url_project: ''
-
+url_slides: ''
+url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
