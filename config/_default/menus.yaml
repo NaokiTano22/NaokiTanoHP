@@ -10,13 +10,13 @@ main:
   - name: Experience
     url: '#experiences'
     weight: 20
-  - name: Posts
+  - name: Recent Posts
     url: '#posts'
     weight: 30
   - name: Projects
     url: '#projects'
     weight: 40
-  - name: Publications
+  - name: Recent Publications
     url: '#featured'
     weight: 50
   - name: Contact
