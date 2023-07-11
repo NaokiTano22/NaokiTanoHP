@@ -9,7 +9,6 @@ date: '2023-07-08T00:00:00Z'
 external_link: ''
 
 image:
-  caption: Photo by rawpixel on Unsplash
   focal_point: Smart
 
 #links:
@@ -27,7 +26,6 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
 ---
 
 This is my master's project at Tokyo Institute of Technology. Our cutting-edge research is to develop novel tactile sensor speciallized for tumor detection in scope surgery. By utilizing our proposed working principle, we aim to localize the tumor location in scope surgeries. This may lead to significant reduction in surgery time.
