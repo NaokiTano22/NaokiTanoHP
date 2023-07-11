@@ -22,11 +22,13 @@ featured: false
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
-image:
+<img src="featured.jpg" width="50%">
+
+#image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ''
-  placement: 2
-  preview_only: false
+#  focal_point: ''
+#  placement: 2
+#  preview_only: false
 
 authors:
   - admin
