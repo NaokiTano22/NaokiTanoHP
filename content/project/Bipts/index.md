@@ -1,8 +1,8 @@
 ---
 title: Balloon-Integrated Pneumatic Tactile Sensor
 summary: This is my master's research project. We aim to develop a novel pneumatic tactile sensor speciallized for tumor detection in scope surgeries.
-tags:
-  - Deep Learning
+#tags:
+#  - Deep Learning
 date: '2023-07-08T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
@@ -31,3 +31,4 @@ image:
 This is my master's project at Tokyo Institute of Technology. Our cutting-edge research is to develop novel tactile sensor speciallized for tumor detection in scope surgery. By utilizing our proposed working principle, we aim to localize the tumor location in scope surgeries. This may lead to significant reduction in surgery time.
 
 Here is the list of the publication relating to the project.
+
