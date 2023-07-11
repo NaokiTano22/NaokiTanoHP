@@ -40,14 +40,7 @@ categories:
   - Award
 ---
 
-```python
-import libr
-print('hello')
-```
-
-
 I received an award from the Japan Society for Precision Engineering on 14th in March, 2023, with a title of "Pressure-sensitive air chamber indenter for the detection of tumors in endoscopic surgeries."
 
 [**Here**](http://2023-03spring.jspe.or.jp/wp/wp-content/uploads/pdf/23-03-BP.pdf) is a link to the conference site!!
-
 
