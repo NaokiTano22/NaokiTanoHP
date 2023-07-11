@@ -6,7 +6,6 @@ title: '臓器内部の腫瘤探査を目的としたセンサ付スコープの
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Takeshi Hatsuzawa
 
 # Author notes (optional)
 #author_notes:
@@ -44,8 +43,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: '2022S_501.pdf'
-url_project: ''
+#url_pdf: '2022S_501.pdf'
+url_project: 'Bipts'
 
 
 # Featured image
