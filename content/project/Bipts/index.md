@@ -28,7 +28,5 @@ image:
 #   Otherwise, set `slides = ""`.
 ---
 
-This is my master's project at Tokyo Institute of Technology. Our cutting-edge research is to develop novel tactile sensor speciallized for tumor detection in scope surgery. By utilizing our proposed working principle, we aim to localize the tumor location in scope surgeries. This may lead to significant reduction in surgery time.
-
-Here is the list of the publication relating to the project.
+This is my master's project at Tokyo Institute of Technology. Our cutting-edge research is to develop balloons-incorporated tactile sensor speciallized for tumor detection in scope surgery. By utilizing our proposed working principle, we aim to localize the tumor location in scope surgeries. This may lead to significant reduction in surgery time.
 
