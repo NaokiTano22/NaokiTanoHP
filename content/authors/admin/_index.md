@@ -27,7 +27,7 @@ bio: My research interests include translational research, tactile sensing and s
 # Interests to show in About widget
 interests:
   - Elastography
-  - Ultrasound Imaging
+  - Ultrasonic Imaging
   - Translational Research
 
 # Education to show in About widget
