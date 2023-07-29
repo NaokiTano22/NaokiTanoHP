@@ -192,11 +192,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
+      title: Publications
       filters:
         folders:
           - publication
@@ -209,10 +205,8 @@ sections:
     content:
       title: Contact
       subtitle:
-      text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
       # Contact (add or remove contact options as necessary)
-      email: tano.n.aa[@]m.titech.ac.jp
+      email: tano.n.aa@m.titech.ac.jp
       address:
         street: 4259-R2-6, Nagatsuta-cho, Midori-ku
         city: Yokohama city
