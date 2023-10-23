@@ -6,6 +6,9 @@ title: 'Variable Response Characteristics of a Soft Sensorized Hydrogel Using Me
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
+  - Ryman Hashem
+  - David Hardman
+  - Fumiya Iida
 
 # Author notes (optional)
 #author_notes:
