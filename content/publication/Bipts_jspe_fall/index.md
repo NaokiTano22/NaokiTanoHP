@@ -3,6 +3,7 @@ title: '内視鏡手術における腫瘍探査を目的としたバルーン感
 
 authors:
   - admin
+  - Takeshi Hatsuzawa
 
 date: '2023-09-15T00:00:00Z'
 #doi: ''
