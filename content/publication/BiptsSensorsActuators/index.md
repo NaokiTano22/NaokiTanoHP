@@ -7,14 +7,14 @@ authors:
 date: '2023-10-23T00:00:00Z'
 doi: ''
 
-publication_types: ['1']
+publication_types: ['2']
 
 publication: "Sensors and Actuators: A. Physical"
 publication_short: 
 
 abstract: 
 
-tags: [Bipts]
+tags: [Tumor Detector]
 
 featured: false
 

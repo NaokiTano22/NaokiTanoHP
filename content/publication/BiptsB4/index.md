@@ -33,7 +33,7 @@ abstract: In recent years, advances in technologies such as CT scanning have ena
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
-tags: [Balloon-Integrated Pressure Tactile Sensor]
+tags: [Tumor Detector]
 
 # Display this page in the Featured widget?
 featured: false

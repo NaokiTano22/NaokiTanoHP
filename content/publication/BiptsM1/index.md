@@ -14,7 +14,7 @@ publication_short: In *JSPE*
 
 abstract: In this paper, we report a novel method for determining the tumor region of small pulmonary nodules. The proposed tumor detection scope captures pressure differentials, akin to a physician's fingertip sensitivity, based on the tissue hardness difference between tumors and healthy tissue to identify lesions. It possesses four chambers with pressure sensors and measures pressure distribution on the surface from internal chamber pressures. This study examines the detection characteristics arising from differences in chamber shapes and materials and further evaluates the scope's performance using phantom tissues.
 
-tags: [Bipts]
+tags: [Tumor Detector]
 
 featured: false
 
