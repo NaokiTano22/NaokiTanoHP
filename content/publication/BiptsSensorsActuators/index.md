@@ -3,6 +3,7 @@ title: 'Balloon-Integrated Pneumatic Tactile Sensor for Tissue Palpation in Mini
 
 authors:
   - admin
+  - Takeshi Hatsuzawa
 
 date: '2023-10-23T00:00:00Z'
 doi: ''
