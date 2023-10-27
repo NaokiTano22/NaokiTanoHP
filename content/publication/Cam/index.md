@@ -18,7 +18,7 @@ authors:
 date: '2022-04-01T00:00:00Z'
 doi: 'https://doi.org/10.1109/RoboSoft55895.2023.10121936'
 
-publication_types: ['1']
+publication_types: ['reviewed conference paper']
 
 publication: In *2023 IEEE International Conference on Soft Robotics*
 publication_short: In *RoboSoft*
