@@ -44,7 +44,7 @@ url_project: ''
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - Balloon-Integrated Pneumatic Tactile Sensor
+  - C-SWE
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
