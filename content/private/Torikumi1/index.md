@@ -1,7 +1,7 @@
 ---
-title: Writing technical content in Markdown
-draft: true
-date: 2019-07-12
+title: "取り組み１：見習いDr. KOMUSUBIとは"
+#draft: true
+date: 2023-11-27
 math: true
 image:
   placement: 2
