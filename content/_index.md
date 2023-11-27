@@ -206,9 +206,9 @@ sections:
     design:
       columns: '2'
  - block: collection
-    id: posts
+    id: private
     content:
-      title: Personal Staff
+      title: Private Contents
       subtitle: '見習いDr. KOMUSUBI'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -216,7 +216,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post_private
+          - private
         author: ""
         category: ""
         tag: ""
