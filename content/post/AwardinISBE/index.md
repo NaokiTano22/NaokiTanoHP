@@ -41,5 +41,3 @@ categories:
 
 I received an award in the 8th International Symposium on Biomedical Engineering on 22th in November, 2023, with a title of "Pneumatic Tactile Balloon Scope for Minimally Invasive Surgery."
 
-#[**Here**](http://2023-03spring.jspe.or.jp/wp/wp-content/uploads/pdf/23-03-BP.pdf) is a link to the conference site!!
-
