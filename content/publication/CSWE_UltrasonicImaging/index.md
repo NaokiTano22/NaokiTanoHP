@@ -9,10 +9,10 @@ authors:
   - Yoshiki Yamakoshi
   - Marie Tabaru
 
-date: ''
+date: '2023-11-23T00:00:00Z'
 doi: ''
 
-publication_types: ['1']
+publication_types: ['2']
 
 #publication: "Ultrasonic Imaging"
 publication_short: 
