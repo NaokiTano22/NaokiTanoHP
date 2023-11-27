@@ -26,7 +26,7 @@ image:
   preview_only: false
 
 projects:
-  - [Bipts]
+  - Bipts
 
 ---
 
