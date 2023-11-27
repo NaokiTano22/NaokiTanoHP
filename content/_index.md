@@ -173,8 +173,8 @@ sections:
   - block: collection
     id: posts
     content:
-      title: Recent Posts
-      subtitle: ''
+      title: Private Staff
+      subtitle: '見習いDr. KOMUSUBI'
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
