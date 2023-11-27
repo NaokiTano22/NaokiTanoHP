@@ -1,22 +1,24 @@
 ---
-title: 'Variable Response Characteristics of a Soft Sensorized Hydrogel Using Mesoscale Cellular Structures'
+title: 'Development of a Shear Wave Propagation Simulation Model for Liver Viscoelasticity Measurement'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Ryman Hashem
-  - David Hardman
-  - Fumiya Iida
+  - Ren Koda
+  - Shunichiro Tanigawa
+  - Naohisa Kamiyama
+  - Yoshiki Yamakoshi
+  - Marie Tabaru
 
 # Author notes (optional)
 #author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2022-04-01T00:00:00Z'
-doi: 'https://doi.org/10.1109/RoboSoft55895.2023.10121936'
+date: '2023-11-14T00:00:00Z'
+#doi: ''
 
 publication_types: ['1']
 
