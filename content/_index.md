@@ -206,7 +206,7 @@ sections:
     design:
       columns: '2'
  - block: collection
-    id: private
+    id: posts
     content:
       title: Private Contents
       subtitle: '見習いDr. KOMUSUBI'
