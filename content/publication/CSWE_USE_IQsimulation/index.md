@@ -20,10 +20,9 @@ doi: 'https://doi.org/10.1109/RoboSoft55895.2023.10121936'
 
 publication_types: ['1']
 
-publication: In *2023 IEEE International Conference on Soft Robotics*
-publication_short: In *RoboSoft*
-
-abstract: Sensorized hydrogels are attracting tremendous interest in the manufacture of flexible strain sensors due to their impressive responses and tunable mechanical properties. However, many require extensive fabrication processes and hazardous raw materials, making their practical application difficult. Here, we demonstrate how the parameters of mesoscale cellular mesh sensors can be varied to control and tune the response characteristics of a biocompatible gelatin-based hydrogel using a straightforward fabrication process and readily available low-cost materials. An analytical model is derived to validate the experimental results, providing a framework for the design and optimization of sensor morphologies. Using this, 40% changes in gauge factor are demonstrated with no change in material properties, indicating that our in-plane cellular structures are a substantial and feasible method to control the sensitivity of flexible and stretchable strain sensors. We use the structures to demonstrate wearable proprioceptive devices, anisotropic bidirectional responses, and localization of a tactile stimulus.
+publication: In *The 44th Symposium on UltraSonic Electronics*
+publication_short: In *USE*
+abstract: "Nonalcoholic steatohepatitis (NASH), a lifestyle disease often linked to obesity, is highly prevalent and can lead to severe complications such as hepatocellular carcinoma and cirrhosis. Given the association of NASH with liver fibrosis, there is a growing need for noninvasive diagnostic methods to assess liver viscoelasticity. Ultrasound-based measurement of tissue viscoelasticity has been the subject of numerous studies over an extended period. We developed continuous shear wave elastography (C-SWE) for diagnosis on liver fibrosis, which utilizes an external vibrator to excite the shear wave. However, extensive in-vivo experiments are necessary to comprehensively optimize the performance of C-SWE, assess its robustness, and expedite the computation. In this study, we present the development of a Doppler signal simulator for the proposed method, C-SWE. To investigate and enhance the performance of the algorithm, intentional noise was incorporated into the simulator. The simulation process is elaborated upon in the subsequent section, and the results obtained are provided to demonstrate the efficacy of this simulation algorithm. Moreover, we assess the robustness of the algorithm by evaluating its performance under the varying intentional noise conditions."
 
 # Display this page in the Featured widget?
 featured: false
