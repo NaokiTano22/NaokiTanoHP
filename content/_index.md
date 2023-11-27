@@ -162,7 +162,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications
+      title: Publications and Conference Appearances
       filters:
         folders:
           - publication
