@@ -208,15 +208,15 @@ sections:
  - block: collection
     id: posts
     content:
-      title: Private Contents
-      subtitle: '見習いDr. KOMUSUBI'
+      title: Recent Posts
+      subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
       count: 3
       # Filter on criteria
       filters:
         folders:
-          - private
+          - post
         author: ""
         category: ""
         tag: ""
