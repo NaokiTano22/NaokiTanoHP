@@ -10,6 +10,8 @@ image:
 
 Collaborative Writing with generative AI.
 
+---
+
 生成AIと共に記事を書く、という指針で「見習いDr. KOMUSUBI」こと私が個人的な記事を書いていきます。
 
 ## ニックネームの由来
