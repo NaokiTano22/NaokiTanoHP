@@ -9,7 +9,7 @@ image:
 ---
 
 Collaborative Writing with generative AI.
-~Towards the Future of Storytelling 1~
+Towards the Future of Storytelling.
 
 ---
 
