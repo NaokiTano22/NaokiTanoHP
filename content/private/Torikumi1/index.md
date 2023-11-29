@@ -11,6 +11,8 @@ image:
 Collaborative Writing with generative AI.
 Towards the Future of Storytelling.
 
+Here, I introduce the reason why I set this nickname in this personal blog.
+
 ---
 
 生成AIと共に記事を書く、という指針で「見習いDr. KOMUSUBI」こと私が個人的な記事を書いていきます。
