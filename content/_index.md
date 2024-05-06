@@ -173,6 +173,17 @@ sections:
       title: Publications and Conference Appearances
       filters:
         folders:
+          - conference
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: featured
+    content:
+      title: Publications and Conference Appearances
+      filters:
+        folders:
           - publication
         exclude_featured: true
     design:
