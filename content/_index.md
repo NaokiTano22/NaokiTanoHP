@@ -170,7 +170,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Conference Appearances
+      title: Conferences
       filters:
         folders:
           - conference
