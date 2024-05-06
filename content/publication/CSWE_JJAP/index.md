@@ -11,7 +11,7 @@ authors:
   - Yoshiki Yamakoshi
   
 date: '2024-04-25T00:00:00Z'
-doi: 'doi.org/10.35848/1347-4065/ad3ae4'
+doi: 'https://doi.org/doi.org/10.35848/1347-4065/ad3ae4'
 
 publication_types: ['2']
 
