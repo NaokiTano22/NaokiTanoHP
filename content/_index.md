@@ -40,13 +40,21 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Master's Researcher
+        - title: Ph.D. Candidate
+          company: Tabaru Lab.
+          company_url: 'https://tbr.first.iir.titech.ac.jp/'
+          company_logo: titech
+          location: Tokyo Institute of Technology
+          date_start: '2024-04-01'
+          date_end: ''
+          description: ''
+        - title: Master's Student
           company: Hatsuzawa Lab.
           company_url: 'http://www.hat.first.iir.titech.ac.jp/'
           company_logo: titech
           location: Tokyo Institute of Technology
           date_start: '2022-04-01'
-          date_end: ''
+          date_end: '2024-03-31'
           description: ''
         - title: Academic Visitor
           company: Bio-Inspired Robotic Lab.
