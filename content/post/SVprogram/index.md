@@ -28,7 +28,7 @@ authors:
 
 tags:
   #- Conference
-  - Dispatch Program
+  - Events
 
 categories:
 #  - Talk
