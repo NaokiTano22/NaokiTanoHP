@@ -68,5 +68,5 @@ email: ''
 highlight_name: true
 ---
 
-I'm a master's student of mechanical engineering at Tokyo Institute of Technology. My academic pursuits primarily revolve around translational research, with a strong focus on tactile sensing and elastography. Presently, my efforts are dedicated to developing a tumor detection scope for employment in minimally invasive surgical procedures. Upon completing my Master's degree, I will join Tabaru Lab. as a member of their PhD program, where I will delve into the realm of liver elastography.
+A Ph.D. candidate of mechanical engineering at Tokyo Institute of Technology. My academic pursuits primarily revolve around translational research, with a strong focus on ultrasonic elastography. Presently, my efforts are dedicated to shear wave liver elastography.
 {style="text-align: justify;"}
