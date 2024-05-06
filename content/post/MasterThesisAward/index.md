@@ -21,12 +21,12 @@ draft: false
 featured: false
 
 # Featured image
-"""image:
+#image:
   #caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/CpkOjOcXdUY)'
-  focal_point: ''
-  placement: 2
-  preview_only: false
-"""
+  #focal_point: ''
+  #placement: 2
+  #preview_only: false
+
 
 authors:
   - admin
