@@ -6,7 +6,7 @@ authors:
   - Takeshi Hatsuzawa
 
 date: '2023-09-15T00:00:00Z'
-doi: 'https://doi.org/10.11522/pscjspe.2022S.0_501'
+doi: 'https://doi.org/10.11522/pscjspe.2023A.0_758'
 
 publication_types: ['1']
 
