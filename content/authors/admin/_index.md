@@ -33,6 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: M. Eng. in Mechanical Engineering
+      institution: Tokyo Institute of Technology
+      year: 2024
     - course: B. Eng. in Mechanical Engineering
       institution: Tokyo Institute of Technology
       year: 2022
