@@ -21,9 +21,9 @@ featured: false
 
 url_project: ''
 
-image:
-  focal_point: ''
-  preview_only: false
+#image:
+#  focal_point: ''
+#  preview_only: false
 
 projects:
   - Bipts

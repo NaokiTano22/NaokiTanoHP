@@ -19,7 +19,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023-11-13T00:00:00Z'
-#doi: ''
+doi: 'https://doi.org/10.24492/use.44.0_1J3-4'
 
 publication_types: ['1']
 

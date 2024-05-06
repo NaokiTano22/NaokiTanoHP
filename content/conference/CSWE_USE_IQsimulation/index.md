@@ -18,7 +18,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2023-11-14T00:00:00Z'
-#doi: ''
+doi: 'https://doi.org/10.24492/use.44.0_2P5-16'
 
 publication_types: ['1']
 
