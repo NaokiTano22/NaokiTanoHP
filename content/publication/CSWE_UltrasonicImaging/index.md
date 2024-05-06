@@ -9,7 +9,7 @@ authors:
   - Yoshiki Yamakoshi
   - Marie Tabaru
 
-date: '2023-11-23T00:00:00Z'
+date: '2024-04-23T00:00:00Z'
 doi: 'https://doi.org/10.1177/01617346241247127'
 
 publication_types: ['2']
