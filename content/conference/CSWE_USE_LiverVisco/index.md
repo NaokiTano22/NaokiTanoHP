@@ -25,7 +25,7 @@ publication_types: ['1']
 
 publication: In *The 44th Symposium on UltraSonic Electronics*
 publication_short: In *USE*
-#abstract: 
+abstract: In this study, we present the development of a Doppler signal simulator for C-SWE. To investigate and engance the performance of the algorithm, intentional noise was incorporated into the simulator. The simulation process is elaborated, and the results obtained are provided to demonstrate the efficacy of this simulation algorithm. Moreover, we assess the robustness of the algorithm by evaluating its performance under the varying intentional noise conditions.
 
 # Display this page in the Featured widget?
 featured: false
