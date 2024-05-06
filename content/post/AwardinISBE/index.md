@@ -32,6 +32,7 @@ authors:
   - admin
 
 tags:
+  - Conference
   - Award
 
 categories:
