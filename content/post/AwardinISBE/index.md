@@ -32,12 +32,11 @@ authors:
   - admin
 
 tags:
-  - Conference
-  - Award
+  - Conferences
+  - Awards
 
 categories:
-  - Poster
-  - Award
+  - Awards
 ---
 
 I received an award in the 8th International Symposium on Biomedical Engineering on 22th in November, 2023, with a title of "Pneumatic Tactile Balloon Scope for Minimally Invasive Surgery."

@@ -32,12 +32,11 @@ authors:
   - admin
 
 tags:
-  - Conference
-  - Award
+  - Conferences
+  - Awards
 
 categories:
-  - Talk
-  - Award
+  - Awards
 ---
 
 I received an award from the Japan Society for Precision Engineering on 14th in March, 2023, with a title of "Pressure-sensitive air chamber indenter for the detection of tumors in endoscopic surgeries."

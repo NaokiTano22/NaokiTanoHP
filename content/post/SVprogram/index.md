@@ -31,7 +31,7 @@ tags:
   - Events
 
 categories:
-#  - Talk
+  - Events
 #  - Award
 ---
 
